@@ -121,6 +121,80 @@ i{
    border-radius: 10px;
    border: none;
 }
-.personName{
-text-align: center;
+h5 {
+
+    color: orangered;
+    text-align: center;
+}
+
+h1 {
+
+    text-align: center;
+    font-size: 45px;
+}
+
+h3 {
+
+    text-align: center;
+}
+
+.icons {
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 40px;
+
+}
+
+img {
+    border-radius: 50px;
+}
+
+.container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+p {
+    font-size: larger;
+}
+
+.fa {
+    color: gold;
+}
+
+.flowers {
+    border-top-left-radius: 500px;
+    border-top-right-radius: 500px;
+    margin-top: 25px;
+}
+
+.blogsbody {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+
+button {
+    align-items: center;
+    background-color: orangered;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 20px;
+}
+.files{
+    color: grey;
+    text-decoration: none;
+    margin-left: 100px;
+    margin-right: 100px;   
+}
+td{
+    font-size: larger;
+    color: grey;
 }
