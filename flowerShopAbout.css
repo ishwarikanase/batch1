@@ -48,13 +48,13 @@ i {
     color: white;
 }
 
-.fristpara {
+.AboutUS{
     font-size: 30px;
 }
 
-.secondpara {
+h1 {
     margin: 7px 0px 7px 0px;
-    font-size: 80px;
+    font-size: 60px;
     font-weight: 700px;
 }
 
@@ -66,10 +66,12 @@ i {
     font-size: 15px;
 }
 .secondpage{
-    padding: 60px 30px 60px 30px;
+    padding: 60px 30px 60px 0px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
 }
 .pargraphone{
     color: #ff6e4e;
@@ -89,6 +91,58 @@ i {
     margin-left: 20px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
+}
+.secondpageimages{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    width: 30%;
+
+}
+.Secondparagrph{
+    width: 40%;
+    margin-left: 60px;
+}
+.Thirdpageimage{
+    width: 50%;
+}
+.Thirdpageparas{
+    width:50%;
+    color: white;
+}
+.Thirdpage{
+    background-color: #180000;
+    padding: 20px 20px 20px 30px;
+}
+.OURSTORY{
+    color: #ff6e4e;
+    margin: 70px 0px 30px 0px;
+}
+.Thirdimg{
+    margin-left: 30px;
+    border-top-left-radius: 500px;
+    border-top-right-radius: 500px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.firstsection{
+    display: flex;
+    justify-content: space-between;
+}
+hr{
+    width: 100%;
+}
+.comments{
+    display: flex;
+    justify-content: space-evenly;
+}
+.progress{
+    color: white;
+    margin-right: 20px;
+    text-align: center;
+    font-family: 'Cormorant Garamond',serif;
+    font-size: 3rem;
+    font-weight: 700;
 }
 .ourMissionpage{
     display: flex;
