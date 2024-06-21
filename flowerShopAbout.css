@@ -144,3 +144,8 @@ hr{
     font-size: 3rem;
     font-weight: 700;
 }
+.ourMissionpage{
+    display: flex;
+    justify-content: space-between;
+    
+ }
