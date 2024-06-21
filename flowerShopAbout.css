@@ -1,0 +1,92 @@
+body {
+    margin: 0px;
+}
+
+.page {
+    background-image: url(https://websitedemos.net/flower-shop-04/wp-content/uploads/sites/1414/2023/10/about-hero-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    /* opacity: 0.5; */
+}
+
+.layer {
+
+    background: rgba(31, 0, 0, 0.568);
+    padding: 0px 0px 70px 0px;
+}
+
+.headancker {
+    text-decoration: none;
+    color: white;
+    margin-right: 35px;
+}
+
+.PageHead {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 10px 50px 10px;
+}
+
+h3 {
+    color: white;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 700px;
+    font-size: 25px;
+}
+
+i {
+    color: #ff6e4e;
+}
+
+.pageparagraph {
+    width: 70%;
+    margin: auto;
+    padding-top: 90px;
+    text-align: center;
+    color: white;
+}
+
+.fristpara {
+    font-size: 30px;
+}
+
+.secondpara {
+    margin: 7px 0px 7px 0px;
+    font-size: 80px;
+    font-weight: 700px;
+}
+
+.headancker:hover {
+    color: #ff6e4e;
+}
+
+.thirdpara {
+    font-size: 15px;
+}
+.secondpage{
+    padding: 60px 30px 60px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pargraphone{
+    color: #ff6e4e;
+}
+.pargraphtwo{
+    color: black;
+    margin: 20px 0px 20px 0px;
+    font-size: 3rem;
+    font-weight: 700px;
+}
+.pargraphthree{
+    color: gray;
+}
+.img{
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    margin-left: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
