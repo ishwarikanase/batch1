@@ -60,3 +60,64 @@ i{
     margin-top: 60px;
     padding: 0px 20px 0px 20px ;
 }
+
+
+
+.aboutFloristPage{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.floristParagraph1{
+    font-size:50px;
+}
+.floristHeader{
+    color: #ff6e4e;
+    margin-bottom:25px ;
+}
+.aboutFlorist{
+    width: 50%;
+}
+.aboutFloristImage{
+    border-top-left-radius:500px;
+    border-top-right-radius:500px ;
+}
+.floristParagraph2{
+    font-size:20px ;
+    color: gray;
+    margin-top: 25px;
+}
+.readMore{
+    margin-top:50px;
+    padding: 20px 30px 20px 30px;
+    border-radius:15px ;
+    background-color: #ff6e4e;
+    border: none;
+    color: white;
+}
+.shopNowImage{
+    border-top-left-radius:500px ;
+    border-top-right-radius:500px ;
+    margin-top:100px ;
+}
+.shopNowPage{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color: #180000;
+}
+.shopnNowParagraph{
+   font-size:45px;
+   margin:30px 0px 30px 0px ;
+   color: white;
+}
+.shopNowHeader{
+   color: #ff6e4e;;
+}
+.shopNowButton{
+   padding:15px 20px 15px 20px ;
+   background-color: #ff6e4e;
+   color: white;
+   border-radius: 10px;
+   border: none;
+}
