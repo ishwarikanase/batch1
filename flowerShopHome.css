@@ -60,9 +60,9 @@ i{
     margin-top: 60px;
     padding: 0px 20px 0px 20px ;
 }
-
-
-
+.headancker:hover {
+    color: #ff6e4e;
+}
 .aboutFloristPage{
     display: flex;
     justify-content: space-between;
