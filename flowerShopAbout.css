@@ -92,6 +92,18 @@ i {
 }
 .ourMissionpage{
     display: flex;
-    justify-content: space-between;
-    
+    justify-content:space-between;
+    /* width: 100%; */
  }
+ .ourVisionParagraph{
+    font-size:20px ;
+    color: gray;
+    padding: 20px;
+ }
+ .header{
+    color:black ;
+ }
+ .generalImage{
+    width:100% ;
+ }
+ 
