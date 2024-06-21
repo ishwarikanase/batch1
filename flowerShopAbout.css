@@ -112,7 +112,8 @@ h1 {
 }
 .Thirdpage{
     background-color: #180000;
-    padding: 20px 20px 20px 30px;
+    padding: 20px 20px 60px 30px;
+    margin-bottom: 100px;
 }
 .OURSTORY{
     color: #ff6e4e;
@@ -143,6 +144,9 @@ hr{
     font-family: 'Cormorant Garamond',serif;
     font-size: 3rem;
     font-weight: 700;
+}
+p{
+    color: white;
 }
 .ourMissionpage{
     display: flex;
