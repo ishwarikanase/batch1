@@ -142,7 +142,6 @@ h3 {
 
     display: flex;
     justify-content: space-evenly;
-    align-items: center;
     margin-top: 40px;
 
 }
@@ -161,7 +160,7 @@ p {
     font-size: larger;
 }
 
-.fa {
+.true {
     color: gold;
 }
 
@@ -179,7 +178,7 @@ p {
     color: white;
 }
 
-button {
+.buttons {
     align-items: center;
     background-color: orangered;
     color: white;
@@ -191,10 +190,50 @@ button {
 .files{
     color: grey;
     text-decoration: none;
-    margin-left: 100px;
-    margin-right: 100px;   
+    /* margin-left: 100px;
+    margin-right: 100px;    */
 }
-td{
+
+.heading{
+    text-align: left;
+}
+.contact{
+    text-align: left;
+}
+.link{
+    text-align: center;
+    margin-left: 10px;
+}
+.copyright{
+    font-size: large;
+    margin: 20px;
+    color: grey;
+}
+.insta{
+    display: flex;
+    justify-content: end;
+    margin: 20px;
+
+}
+.flower{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.facebook{
+    padding-right: 15px;
+    color: black;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 35px;
     font-size: larger;
     color: grey;
+}
+.flower{
+    margin-bottom: 20px;
+    color: black;
 }
