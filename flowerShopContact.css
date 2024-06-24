@@ -115,3 +115,13 @@ h1{
 .emailAddress{
     color: gray;
 }
+.socialMedia{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.footerIcon{
+    margin-left: 20px;
+}
+.iconFooter{
+    border-radius: 20px;
+}
