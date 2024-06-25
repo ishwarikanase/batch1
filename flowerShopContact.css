@@ -8,12 +8,14 @@ body {
     background-repeat: no-repeat;
     padding: 0px 0px 0px 0px;
 }
+
 .layer {
 
     background: rgba(31, 0, 0, 0.815);
     padding: 20px 10px 80px 10px;
     margin-bottom: 40px;
 }
+
 .headancker {
     text-decoration: none;
     color: white;
@@ -34,10 +36,11 @@ h3 {
     font-size: 20px;
 }
 
-.headicon{
+.headicon {
     color: #ff6e4e;
 }
-h2{
+
+h2 {
     font-size: 4.375rem;
     display: flex;
     color: white;
@@ -45,105 +48,227 @@ h2{
     padding: 0px;
     margin-top: 20px;
     margin-bottom: 10px;
-    font-family: 'Cormorant Garamond',serif;
+    font-family: 'Cormorant Garamond', serif;
     word-spacing: 2px;
 }
+
 .headancker:hover {
     color: #ff6e4e;
 }
+
 .thirdpar {
     font-size: 15px;
     color: white;
     text-align: center;
     margin-top: 0px;
 }
-.ContactUS{
+
+.ContactUS {
     color: white;
     text-align: center;
 }
-.secpara{
+
+.secpara {
     width: 80%;
     margin: auto;
     padding: 0px;
 
 }
-.contactsecondpage{
-    padding: 0px 30px 30px 30px ;
+
+.contactsecondpage {
+    padding: 0px 30px 30px 30px;
 }
-.contactFirstSubpage{
+
+.contactFirstSubpage {
     width: 50%;
 }
-.contactFirstSubpagehead{
+
+.contactFirstSubpagehead {
     display: flex;
     font-size: 1.5rem;
     margin: 0px;
 }
-.contactFirstSubpagepara{
+
+.contactFirstSubpagepara {
     color: gray;
     font-size: 20px;
     margin-top: 5px;
 }
-h1{
+
+h1 {
     margin: 0px;
 }
-.addressName{
+
+.addressName {
     font-size: 23px;
     margin: 10px 0px 10px 0px;
 }
-.address{
+
+.address {
     color: gray;
     font-size: 17px;
     margin-bottom: 15px;
 }
-.contactingReasourse{
+
+.contactingReasourse {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin: 30px 0px 30px 0px;
 }
-.phone{
+
+.phone {
     font-size: 20px;
     margin-bottom: 7px;
 }
-.phoneNo{
+
+.phoneNo {
     color: gray;
 }
-.email{
+
+.email {
     font-size: 20px;
     margin-bottom: 7px;
 }
-.emailAddress{
+
+.emailAddress {
     color: gray;
 }
-.socialMedia{
+
+.socialMedia {
     margin-top: 10px;
     margin-bottom: 20px;
 }
-.footerIcon{
+
+.footerIcon {
     margin-left: 20px;
 }
-.iconFooter{
+
+.iconFooter {
     border-radius: 20px;
 }
-.contactthirdpage{
+
+.contactthirdpage {
     display: flex;
     justify-content: space-between;
     padding: 90px 30px 20px 30px;
     background-color: #fef7f5;
     margin-top: 60px;
 }
-.faqs{
+
+.faqs {
     font-size: 40px;
     font-weight: 600;
     margin-bottom: 30px;
 }
-.paragraphOne{
+
+.paragraphOne {
     font-size: 17px;
     color: gray;
 }
-.contactSecondSubpage{
+
+.contactSecondSubpage {
     width: 50%;
 }
-.contactThirdSubpage{
-    width: 45%;
+
+.contactThirdSubpage {
+    width: 50%;
+}
+
+.paragraphHead {
+    font-size: 25px;
+    margin-bottom: 10px;
+    font-weight: 500;
+    margin-top: 30px;
+    word-spacing: 2px;
+}
+
+.subParagraph {
+    font-size: 20px;
+    margin-bottom: 30px;
+    color: gray;
+}
+
+.hrr {
+    color: black;
+}
+
+.paragraphHeadOne {
+    font-size: 25px;
+    margin-bottom: 10px;
+    font-weight: 500;
+    word-spacing: 2px;
+}
+.flowers {
+    border-top-left-radius: 500px;
+    border-top-right-radius: 500px;
+    margin-top: 25px;
+}
+
+.blogsbody {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+
+.buttons {
+    align-items: center;
+    background-color: orangered;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 20px;
+}
+.files{
+    color: grey;
+    text-decoration: none;
+    /* margin-left: 100px;
+    margin-right: 100px;    */
+}
+
+.heading{
+    text-align: left;
+}
+.contact{
+    text-align: left;
+}
+.link{
+    text-align: center;
+    margin-left: 10px;
+}
+.copyright{
+    font-size: large;
+    margin: 20px;
+    color: grey;
+}
+.insta{
+    display: flex;
+    justify-content: end;
+    margin: 20px;
+
+}
+.flower{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.facebook{
+    padding-right: 15px;
+    color: black;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 35px;
+    font-size: larger;
+    color: grey;
+}
+.flower{
+    margin-bottom: 20px;
+    color: black;
 }
