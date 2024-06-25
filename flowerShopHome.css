@@ -5,7 +5,11 @@ body{
     background-image: url(https://websitedemos.net/flower-shop-04/wp-content/uploads/sites/1414/2023/10/hero-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    padding: 0px 0px 130px 0px;
+    
+}
+.layer{
+    background: rgba(31, 0, 0, 0.568);
+    padding-bottom: 130px;
 }
 .headancker{
     text-decoration: none;
