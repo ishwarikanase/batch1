@@ -198,3 +198,76 @@ h1{
     color:gray;
     margin-top:10px;
  }
+ .flowers {
+    border-top-left-radius: 500px;
+    border-top-right-radius: 500px;
+    margin-top: 25px;
+}
+
+.blogsbody {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+
+.buttons {
+    align-items: center;
+    background-color: orangered;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 20px;
+}
+.files{
+    color: grey;
+    text-decoration: none;
+    /* margin-left: 100px;
+    margin-right: 100px;    */
+}
+
+.heading{
+    text-align: left;
+}
+.contact{
+    text-align: left;
+}
+.link{
+    text-align: center;
+    margin-left: 10px;
+}
+.copyright{
+    font-size: large;
+    margin: 20px;
+    color: grey;
+}
+.insta{
+    display: flex;
+    justify-content: end;
+    margin: 20px;
+
+}
+.flower{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.facebook{
+    padding-right: 15px;
+    color: black;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 35px;
+    font-size: larger;
+    color: grey;
+}
+.flower{
+    margin-bottom: 20px;
+    color: black;
+}
